@@ -2,23 +2,23 @@
     <channel>
         <title><![CDATA[Dr Matt Piccaver]]></title>
         <description><![CDATA[Dr Matt Piccaver]]></description>
-        <link>http://www.matthewpiccaver.co.uk/</link>
+        <link>https://thegrid.ai/drmattpiccaver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 22:15:03 GMT</lastBuildDate>
-        <atom:link href="http://www.matthewpiccaver.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Introduction.]]></title>
-            <description><![CDATA[<article><h1>Introduction.</h1><p>Dr Matt Piccaver is a writer and doctor based in the UK. When not working as a doctor he can be found writing, spending time with his family, or lifting weights.</p></article>]]></description>
-            <link>http://www.matthewpiccaver.co.uk/introduction/index.html</link>
-            <guid isPermaLink="false">f876df05-f7fd-4939-a688-923ff34dbb86</guid>
-            <pubDate>Wed, 13 Jan 2016 22:02:35 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 13 Jan 2016 22:18:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drmattpiccaver/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Self-esteem]]></title>
             <description><![CDATA[<article><h1>Self-esteem</h1><p>Doctors are expected to have a form of wisdom. People ask me many things, some I feel qualified to talk about, others are so far out of my comfort zone, I’m can’t see it from where I stand. In the ten years or so that I’ve been a doctor, I’ve met tens of thousands of people. Enough to fill a small town. We acquire wisdom with each and every patient we meet.</p></article>]]></description>
-            <link>http://www.matthewpiccaver.co.uk/self-esteem/index.html</link>
+            <link>https://thegrid.ai/drmattpiccaver/self-esteem/index.html</link>
             <guid isPermaLink="false">c6ccf9a5-48e9-4ee9-90ae-e346ff5c36ff</guid>
-            <pubDate>Wed, 13 Jan 2016 22:15:03 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 22:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction.]]></title>
+            <description><![CDATA[<article><h1>Introduction.</h1><p>Dr Matt Piccaver is a writer and doctor based in the UK. When not working as a doctor he can be found writing, spending time with his family, or lifting weights.</p></article>]]></description>
+            <link>https://thegrid.ai/drmattpiccaver/introduction/index.html</link>
+            <guid isPermaLink="false">f876df05-f7fd-4939-a688-923ff34dbb86</guid>
+            <pubDate>Wed, 13 Jan 2016 22:02:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
