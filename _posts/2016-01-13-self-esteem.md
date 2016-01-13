@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'As featured in Bury & West Suffolk Magazine'
-datePublished: '2016-01-13T22:15:03.186Z'
-dateModified: '2016-01-13T22:13:51.220Z'
+datePublished: '2016-01-13T22:18:40.699Z'
+dateModified: '2016-01-13T22:18:39.177Z'
 title: Self-esteem
 author: []
+sourcePath: _posts/2016-01-13-self-esteem.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-self-esteem.md
-published: true
 url: self-esteem/index.html
 _type: Article
 
