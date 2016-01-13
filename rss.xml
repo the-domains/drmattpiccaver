@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dr Matt Piccaver]]></title>
+        <description><![CDATA[Dr Matt Piccaver]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 22:03:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction.]]></title>
+            <description><![CDATA[<article><h1>Introduction.</h1><p>Dr Matt Piccaver is a writer and doctor based in the UK. When not working as a doctor he can be found writing, spending time with his family, or lifting weights.</p></article>]]></description>
+            <link>undefinedintroduction/index.html</link>
+            <guid isPermaLink="false">f876df05-f7fd-4939-a688-923ff34dbb86</guid>
+            <pubDate>Wed, 13 Jan 2016 22:02:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
