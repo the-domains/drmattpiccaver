@@ -4,7 +4,7 @@
         <description><![CDATA[Dr Matt Piccaver]]></description>
         <link>https://thegrid.ai/drmattpiccaver/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 19:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 20:09:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drmattpiccaver/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Self-esteem]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/drmattpiccaver/introduction/index.html</link>
             <guid isPermaLink="false">f876df05-f7fd-4939-a688-923ff34dbb86</guid>
             <pubDate>Wed, 13 Jan 2016 22:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suicide by Doctors]]></title>
+            <description><![CDATA[<article><h1>Suicide by Doctors</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c406e1c01ae01a51c8065316255c5c28dde3126.jpg"></article>]]></description>
+            <link>https://thegrid.ai/drmattpiccaver/suicide-by-doctors/index.html</link>
+            <guid isPermaLink="false">f2cffc11-6d44-477f-b864-1dddc540776f</guid>
+            <pubDate>Thu, 14 Jan 2016 20:09:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
