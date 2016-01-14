@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'As featured in Bury & West Suffolk Magazine'
-datePublished: '2016-01-14T19:59:36.139Z'
-dateModified: '2016-01-14T19:59:33.015Z'
+datePublished: '2016-01-14T20:16:36.738Z'
+dateModified: '2016-01-14T20:15:48.465Z'
 title: Self-esteem
 author: []
 sourcePath: _posts/2016-01-13-self-esteem.md
@@ -52,6 +52,6 @@ www.mind.org.uk
 
 **[][0]**
 
-and search for self-esteem. Confidence and belief in oneself have a direct impact on how we operate in the world.  
+and search for self-esteem. Confidence and belief in oneself have a direct impact on how we operate in the world.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c81594e6-6ad2-43d1-bf71-c532a84c3d2a.jpg)
 
 [0]: http://www.mind.org.uk/
