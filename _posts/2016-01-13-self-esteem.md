@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'As featured in Bury & West Suffolk Magazine'
-datePublished: '2016-01-13T22:18:40.699Z'
-dateModified: '2016-01-13T22:18:39.177Z'
+datePublished: '2016-01-14T19:59:36.139Z'
+dateModified: '2016-01-14T19:59:33.015Z'
 title: Self-esteem
 author: []
 sourcePath: _posts/2016-01-13-self-esteem.md
@@ -22,7 +22,7 @@ url: self-esteem/index.html
 _type: Article
 
 ---
-Doctors are expected to have a form of wisdom. People ask me many things, some I feel qualified to talk about, others are so far out of my comfort zone, I'm can't see it from where I stand. In the ten years or so that I've been a doctor, I've met tens of thousands of people. Enough to fill a small town. We acquire wisdom with each and every patient we meet.
+Doctors are expected to have a form of wisdom. People ask me many things, some I feel qualified to talk about, others are so far out of my comfort zone, I  can't see it from where I stand. In the ten years or so that I've been a doctor, I've met tens of thousands of people. Enough to fill a small town. We acquire wisdom with each and every patient we meet.
 
 ****
 
