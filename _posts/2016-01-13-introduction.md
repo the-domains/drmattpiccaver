@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T22:02:35.028Z'
-dateModified: '2016-01-13T22:00:45.373Z'
+datePublished: '2016-01-14T20:16:44.062Z'
+dateModified: '2016-01-14T19:56:45.332Z'
 title: Introduction.
 author: []
+sourcePath: _posts/2016-01-13-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-introduction.md
-published: true
 url: introduction/index.html
 _type: Article
 
@@ -27,3 +27,4 @@ Dr Matt Piccaver is a writer and doctor based in the UK. When not working as a d
 If you need to contact him, drop a line to:
 
 Glemsford Surgery, Lion Road, Glemsford, Suffolk. CO 10 7RF
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ea7783-c89b-4277-8348-17ad4aca1f71.jpg)
