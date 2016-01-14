@@ -1,7 +1,7 @@
 name: drmattpiccaver
 favicon: null
-layout_spectrum: 0.18323669908568263
-typography_spectrum: 0.1535327371675521
+layout_spectrum: 0.60976
+typography_spectrum: 0.71541
 title: Dr Matt Piccaver
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#010101'
-    - '#5e3927'
-    - '#3661d4'
-    - '#68aac6'
+    - '#36322f'
+    - '#dededc'
+    - '#b0afaa'
+    - '#84817c'
+    - '#fefefc'
   brandStrength: 0.5
   lightness: 0.9632389820180833
-  saturation: 0.1875
+  saturation: 0.125
   rhythmicContrast: 0.3275401701685041
 purpose: []
