@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:09:03.719Z'
-dateModified: '2016-01-14T20:08:52.338Z'
+datePublished: '2016-01-14T20:16:29.202Z'
+dateModified: '2016-01-14T20:15:53.659Z'
 title: Suicide by Doctors
 author: []
 authors: []
