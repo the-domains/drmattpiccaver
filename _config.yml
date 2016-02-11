@@ -1,7 +1,7 @@
 name: matthewpiccaver.co.uk
 favicon: null
-layout_spectrum: 0.60976
-typography_spectrum: 0.71541
+layout_spectrum: 0.25023
+typography_spectrum: 0.50403
 title: Dr Matt Piccaver
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b0afaa'
     - '#84817c'
     - '#fefefc'
-  brandStrength: 0.5
-  lightness: 0.9632389820180833
-  saturation: 0.125
-  rhythmicContrast: 0.3275401701685041
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
