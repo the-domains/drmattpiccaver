@@ -1,20 +1,4 @@
-name: matthewpiccaver.co.uk
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.25134
-title: Dr Matt Piccaver
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: matthewpiccaver.co.uk
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Dr Matt Piccaver
+description: GP and writer
 purpose: []
