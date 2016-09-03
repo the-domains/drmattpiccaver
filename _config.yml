@@ -1,20 +1,20 @@
-typography_spectrum: 0.25134
+layout_spectrum: 0.5141669376753271
+typography_spectrum: 0.3714686918538064
 color:
   brandColors:
-    - '#fefefe'
-    - '#c1cbca'
-    - '#000407'
-    - '#814231'
-    - '#64b863'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.564552583033219
+  lightness: 0.8427319922484457
+  saturation: 0.5350451793055981
+  rhythmicContrast: 0.8981024026870728
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
 analytics:
   google: null
   facebook: null
@@ -24,11 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About Me
-    id: f876df05-f7fd-4939-a688-923ff34dbb86
-    type: content
 favicon: null
 title: Dr Matt Piccaver
 description: GP and writer
 purpose: []
+navigation:
+  - name: About Me
+    id: f876df05-f7fd-4939-a688-923ff34dbb86
+    type: content
